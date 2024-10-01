@@ -11,8 +11,6 @@ Display Results: The results are shown to the user in a message box, providing t
 
 After installation you can run this tools in your linux termninal by simply typing passwd_stg_tool on the command line interface, this will open the Graphical User Interface.
 Paste your Password to check the Strength. 
-
-![Screenshot from 2024-10-01 15-41-24](https://github.com/user-attachments/assets/6f74913e-5e1a-4cd9-8798-fd1a9a51d36c)
 ![Screenshot from 2024-10-01 15-44-26](https://github.com/user-attachments/assets/8ad2581c-1667-4ffc-9b72-9536a65a1c5f)
 ![Screenshot from 2024-10-01 15-44-02](https://github.com/user-attachments/assets/0aeacf71-1fae-490a-9bd4-689d96ed2b6c)
 ![Screenshot from 2024-10-01 15-43-37](https://github.com/user-attachments/assets/8b0d1b82-7b72-4e77-9924-c77797802005)
