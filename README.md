@@ -17,3 +17,9 @@ You can install this tool using pip:
 ```bash
 pip install .
 
+![Screenshot from 2024-10-01 15-41-24](https://github.com/user-attachments/assets/5625ddc2-d7fe-42aa-a513-6d0bffd2f5f2)
+![Screenshot from 2024-10-01 15-44-26](https://github.com/user-attachments/assets/f91bea3a-3a53-4017-b867-b7953e9d28a6)
+![Screenshot from 2024-10-01 15-44-02](https://github.com/user-attachments/assets/d4482ddf-cd89-4a2b-a43b-81df85a4d929)
+![Screenshot from 2024-10-01 15-43-37](https://github.com/user-attachments/assets/c3ac9b9c-140e-4685-8a33-55ab331f2b37)
+
+
