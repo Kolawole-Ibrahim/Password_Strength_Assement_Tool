@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: password_strength_tool
+Version: 0.1
+Summary: A tool to assess the strength of a password
+Home-page: https://github.com/yourusername/password_strength_tool
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6

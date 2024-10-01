@@ -1,0 +1,2 @@
+[console_scripts]
+check_password = password_strength.strength_checker:main
