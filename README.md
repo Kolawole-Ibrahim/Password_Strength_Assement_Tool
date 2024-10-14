@@ -1,4 +1,4 @@
-# PRODIGY_CS_03
+# Password-Strength-Tool
 Password-Strength-Tool
 Description
 This tool assesses the strength of a password based on length, presence of uppercase and lowercase letters, digits, and special characters.
